@@ -1,4 +1,4 @@
-## Greetings 👋, I'm Victor Rikellmy
+## Ola 👋, Eu sou Victor Rikellmy
 
 - Fullstack
 - Estudando Infraestrutura
