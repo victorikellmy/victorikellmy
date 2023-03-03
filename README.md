@@ -15,7 +15,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/Arttanjeiro">
+  <a href="https://github.com/victorikellmy">
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorikellmy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
