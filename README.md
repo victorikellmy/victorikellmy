@@ -31,12 +31,6 @@
 </p>
 <br>  
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ewertonbello">
-</p>
 
-<p align="center">
-  <img src="https://github.com/victorikellmy/victorikellmy/blob/output/github-contribution-grid-snake.gif">
-</p>
 
 
