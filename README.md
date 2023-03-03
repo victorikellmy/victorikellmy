@@ -1,6 +1,6 @@
 ## Ola 👋, Eu sou Victor Rikellmy
 
-- Fullstack
+- Fullstack em Desenvolvimento
 - Estudando Infraestrutura
 - Estudando Reactjs 
 - Estudando Nextjs
