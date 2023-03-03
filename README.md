@@ -1,4 +1,4 @@
-## Greetings 👋, I'm Ewerton
+## Greetings 👋, I'm Victor Rikellmy
 
 <a href="https://t.me/ewertonbello">
   <img align="left" alt="Ewerton's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
@@ -20,16 +20,7 @@
 
 </div>
 
-<br>  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ewertonbello">
-</p>
-
-<br>  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ewertonbello">
-</p>
-<br>  
+  
 
 
 
