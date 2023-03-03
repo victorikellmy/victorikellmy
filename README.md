@@ -1,5 +1,12 @@
 ## Greetings 👋, I'm Victor Rikellmy
 
+- Fullstack
+- Estudando Infraestrutura
+- Estudando Reactjs 
+- Estudando Nextjs
+- Estudando java 
+- Estudando Python
+
 
 
 <div align="center">
@@ -10,9 +17,9 @@
 
   <a href="https://github.com/Arttanjeiro">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arttanjeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorikellmy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arttanjeiro&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorikellmy&layout=compact&langs_count=7&theme=dark"/>
 
 </div>
   
