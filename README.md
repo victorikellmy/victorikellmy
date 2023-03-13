@@ -2,8 +2,8 @@
 
 - Fullstack em Desenvolvimento
 - Estudando Infraestrutura
-- Estudando Reactjs 
-- Estudando Nextjs
+- Estudando React-js 
+- Estudando Node-js
 - Estudando java 
 - Estudando Python
 
